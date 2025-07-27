@@ -1,6 +1,6 @@
 # Car Price Prediction Dashboard
 
-An interactive web application built with **Python** and **Streamlit** that predicts car prices using a trained **machine learning model**. Users can input car details, get a predicted price, and track their prediction history — all in a simple and accessible online interface.
+An interactive web application built with **Python** and **Streamlit** that predicts car prices using a trained **machine learning model**. Users can input car features, get a predicted price, and track their prediction history, all in a simple and accessible web interface.
 
 ![Main UI Screenshot](images/mainPage.png)
 
@@ -26,9 +26,6 @@ This project combines web scraping, data preprocessing, model training, and fron
 ---
 
 ## UI
-
-### Dashboard Interface  
-![Prediction UI](images/mainPage.png)
 
 ### User Profile & Charts 
 ![Prediction UI](images/dashbord1.png)
