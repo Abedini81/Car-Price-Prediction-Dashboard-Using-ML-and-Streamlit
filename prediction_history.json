@@ -1,0 +1,100 @@
+[
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 300,
+            "Torque_No": 400,
+            "Make_Aston Martin": 1,
+            "Body Size_Compact": 1,
+            "Body Style_Cargo Minivan": 1,
+            "Engine Aspiration_Electric Motor": 1,
+            "Drivetrain_4WD": 1,
+            "Transmission_automatic": 1
+        },
+        "predicted_price": 161260.24
+    },
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 305,
+            "Torque_No": 400,
+            "Make_Aston Martin": 1,
+            "Body Size_Compact": 1,
+            "Body Style_Hatchback": 1,
+            "Engine Aspiration_Electric Motor": 1,
+            "Drivetrain_AWD": 1,
+            "Transmission_manual": 1
+        },
+        "predicted_price": 128330.83
+    },
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 300,
+            "Torque_No": 20,
+            "Make_Nissan": 1,
+            "Body Size_Compact": 1,
+            "Body Style_Cargo Minivan": 1,
+            "Engine Aspiration_Supercharged": 1,
+            "Drivetrain_RWD": 1,
+            "Transmission_automatic": 1
+        },
+        "predicted_price": 36972.36
+    },
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 300,
+            "Torque_No": 800,
+            "Make_Mercedes-Benz": 1,
+            "Body Size_Midsize": 1,
+            "Body Style_Cargo Minivan": 1,
+            "Engine Aspiration_Naturally Aspirated": 1,
+            "Drivetrain_FWD": 1,
+            "Transmission_manual": 1
+        },
+        "predicted_price": 56010.39
+    },
+    {
+        "username": "john",
+        "input": {
+            "Horsepower_No": 100,
+            "Torque_No": 300,
+            "Make_Ford": 1,
+            "Body Size_Compact": 1,
+            "Body Style_Pickup Truck": 1,
+            "Engine Aspiration_Naturally Aspirated": 1,
+            "Drivetrain_4WD": 1,
+            "Transmission_automatic": 1
+        },
+        "predicted_price": -4259.75
+    },
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 300,
+            "Torque_No": 350,
+            "Make_Audi": 1,
+            "Body Size_Compact": 1,
+            "Body Style_Convertible": 1,
+            "Engine Aspiration_Electric Motor": 1,
+            "Drivetrain_RWD": 1,
+            "Transmission_manual": 1
+        },
+        "predicted_price": 59688.95
+    },
+    {
+        "username": "abedini",
+        "input": {
+            "Horsepower_No": 100,
+            "Torque_No": 150,
+            "Make_Aston Martin": 1,
+            "Body Size_Midsize": 1,
+            "Body Style_Cargo Minivan": 1,
+            "Engine Aspiration_Turbocharged": 1,
+            "Drivetrain_4WD": 1,
+            "Transmission_automatic": 1
+        },
+        "predicted_price": 114907.17
+    }
+]
