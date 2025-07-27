@@ -2,7 +2,7 @@
 
 An interactive web application built with **Python** and **Streamlit** that predicts car prices using a trained **machine learning model**. Users can input car details, get a predicted price, and track their prediction history — all in a simple and accessible online interface.
 
-![Main UI Screenshot](PLACEHOLDER_FOR_MAIN_UI_IMAGE)
+![Main UI Screenshot](images/mainPage.png)
 
 ---
 
